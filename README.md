@@ -19,6 +19,7 @@ A 30-day challenge to learn Python from scratch, one topic per day. Each day has
 | [Day 1](Python_Day_1) | Setup, print, basic syntax |
 | [Day 2](Python_Day_2) | Variables, built-in functions |
 | [Day 3](Python_Day_3) | Operators |
+| [Day 4](Python_Day_4) | Strings   |
 
 
 
