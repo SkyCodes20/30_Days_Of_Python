@@ -26,7 +26,7 @@ print(company.lower())
 print(company.capitalize())
 print(company.title())
 print(company.swapcase())
-print(company[6:])
+print(company[7:])
 print(company.find('Coding'))
 print(company.replace('Coding','Python'))
 print(company.split())
@@ -80,7 +80,7 @@ print('# '.join(Python_library))
 
 radius = 10
 area = 3.14 * radius ** 2
-print('The area of the circle with radius {} is {}'.format(radius,area) + ' meters square')
+print('The area of the circle with radius {} is {:.0f} meters square'.format(radius,area))
 
 # Make the following using string formatting methods:
 # 8 + 6 = 14
@@ -95,7 +95,7 @@ x,y = 8,6
 print(f'{x} + {y} = {x+y}')
 print(f'{x} - {y} = {x-y}')
 print(f'{x} * {y} = {x*y}')
-print(f'{x} / {y} = {x/y}')
+print(f'{x} / {y} = {x/y:.2f}')
 print(f'{x} % {y} = {x%y}')
 print(f'{x} // {y} = {x//y}')
 print(f'{x} ** {y} = {x**y}')
