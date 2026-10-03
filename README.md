@@ -1,7 +1,7 @@
 # **30-Days-of-Python**
 
 As the famous saying goes:
-> Small steps, every day builds consistency which results in discipline.
+> Small steps, every day, builds consistency which results in discipline.
 
 A 30-day challenge to learn Python from scratch, one topic per day. Each day has its own folder with the code I wrote, plus the concepts I practiced.
 
