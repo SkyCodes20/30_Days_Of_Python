@@ -9,7 +9,7 @@ A 30-day challenge to learn Python from scratch, one topic per day. Each day has
 
 **Background:** I'm a CS student, and I am familiar with Java.
 
-**How to navigate:** open the [topics covered](#topics-covered) below and click on a day to see that day's code.  
+**How to navigate:** open the [Topics Covered](#topics-covered) below and click on a day to see that day's code.  
 
 ## Topics Covered
 
