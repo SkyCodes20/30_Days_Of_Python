@@ -18,8 +18,8 @@ A 30-day challenge to learn Python from scratch, one topic per day. Each day has
 | [Day 2](Python_Day_2) | Variables, built-in functions |
 | [Day 3](Python_Day_3) | Operators |
 | [Day 4](Python_Day_4) | Strings   |
-| [day 5](Python_Day_5) | Lists     |
-
+| [Day 5](Python_Day_5) | Lists     |
+| [Day 6](Python_Day_6) | Tuples    |
 
 
 ## About me
