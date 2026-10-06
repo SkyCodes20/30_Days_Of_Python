@@ -20,7 +20,7 @@ A 30-day challenge to learn Python from scratch, one topic per day. Each day has
 | [Day 4](Python_Day_4) | Strings   |
 | [Day 5](Python_Day_5) | Lists     |
 | [Day 6](Python_Day_6) | Tuples    |
-
+| [Day 7](Python_Day_7) | Sets      |
 
 ## About me
 * My name is Sarthak Agarwal
