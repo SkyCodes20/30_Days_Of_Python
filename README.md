@@ -22,6 +22,7 @@ A 30-day challenge to learn Python from scratch, one topic per day. Each day has
 | [Day 6](Python_Day_6) | Tuples    |
 | [Day 7](Python_Day_7) | Sets      |
 | [Day 8](Python_Day_8) | Dictionaries | 
+| [Day 9](Python_Day_9) | conditionals and logical operators | 
 
 ## About me
 * My name is Sarthak Agarwal
